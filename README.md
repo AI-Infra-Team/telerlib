@@ -1,2 +1,2 @@
 # telerlib
-teleinfra rust lib with reusable tools
+teleai infra rust lib with reusable tools
